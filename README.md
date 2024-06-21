@@ -1,1 +1,1 @@
-demo for platepost video menu
+React demo for plate post video menu  
