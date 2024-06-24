@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/platepost-menu-demo/static/css/main.0decfc37.css",
+    "main.js": "/platepost-menu-demo/static/js/main.1f423248.js",
+    "static/js/453.5b645b27.chunk.js": "/platepost-menu-demo/static/js/453.5b645b27.chunk.js",
+    "index.html": "/platepost-menu-demo/index.html",
+    "main.0decfc37.css.map": "/platepost-menu-demo/static/css/main.0decfc37.css.map",
+    "main.1f423248.js.map": "/platepost-menu-demo/static/js/main.1f423248.js.map",
+    "453.5b645b27.chunk.js.map": "/platepost-menu-demo/static/js/453.5b645b27.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0decfc37.css",
+    "static/js/main.1f423248.js"
+  ]
+}
